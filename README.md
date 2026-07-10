@@ -60,7 +60,6 @@ Task2/
 ```
 
 ---
-
 ## Compilation
 
 ### Quicksort
@@ -137,8 +136,6 @@ Example observations:
 - Optimization Problems
 - Time Complexity Analysis
 - Runtime Measurement
-
----
 
 ## Technologies Used
 
